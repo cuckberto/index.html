@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uñas Elegantes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ANITA Nail shop & academy</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Servicios</a></li>
+            <li><a href="#">Galería</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section class="main-content">
+        <h2>Bienvenidos a ANITA Nail shop & academy</h2>
+        <p>Somos especialistas en uñas elegantes para todo tipo de eventos y ocasiones.</p>
+        <img src="portada1,jpg.jpg" alt="ANITA Nail shop & academy">
+        <p>Para agendar una cita, llámanos al: <a href="tel:+4421868709">442-186-8709</a></p>
+    </section>
+
+    <section class="gallery">
+        <h2>Galería</h2>
+        <div class="gallery-grid">
+            <!-- Repite este bloque para cada foto -->
+            <div class="gallery-item">
+                <img src="img.jpg" alt="Descripción de la foto 1">
+                <figcaption>Descripción de la foto 1</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img2.jpg" alt="Descripción de la foto 2">
+                <figcaption>Descripción de la foto 2</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img3.jpg" alt="Descripción de la foto 3">
+                <figcaption>Descripción de la foto 3</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img4.jpg" alt="Descripción de la foto 4">
+                <figcaption>Descripción de la foto 4</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img6,jpg.jpg" alt="img6">
+                <figcaption>Descripción de la foto 5</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img7.pjg.jpg" alt="Descripción de la foto 6">
+                <figcaption>Descripción de la foto 6</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img8.jpg" alt="Descripción de la foto 7">
+                <figcaption>Descripción de la foto 7</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img9.jpg" alt="Descripción de la foto 8">
+                <figcaption>La imagen muestra un conjunto de pinceles para arte de uñas en un empaque de plástico transparente con el nombre de la marca "XIAOYA" y la etiqueta "Pincel de uñas". Los pinceles tienen mangos transparentes con cuentas decorativas y brillo, de diferentes tamaños para diversas técnicas. También se ven otros productos similares en el fondo, con etiquetas de precio que indican diferentes valores.</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img10.jpg" alt="Descripción de la foto 9">
+                <figcaption>La imagen muestra dos conjuntos de pinceles para arte de uñas en empaques de venta. Uno tiene mangos rosados y puntas variadas con un precio de "45", y el otro es de la marca "XIAOYA" con mangos llenos de brillo y un precio de "35". Ambos conjuntos están en exhibición en una tienda junto con otros productos.</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img11.jpg" alt="Descripción de la foto 10">
+                <figcaption>¡Descubre nuestro paquete de pinceles "NO 2" con mangos blancos y puntas de colores vibrantes! Este set incluye cuatro pinceles de alta calidad en un empaque transparente con un diseño holográfico único. Ideal para tus proyectos de arte y manualidades. Disponible en nuestra tienda de suministros artísticos. ¡Haz que tus creaciones brillen con estos pinceles coloridos!</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img12.jpg" alt="Descripción de la foto 11">
+                <figcaption>La imagen muestra un paquete que contiene un set de tres pinceles de arte para uñas. Los pinceles tienen un mango de color dorado metálico y cerdas blancas. El empaque es de plástico transparente con una etiqueta blanca en la parte superior donde el precio está escrito a mano como "$40". Debajo de los pinceles, hay un texto que dice "Pincel de uña", que probablemente significa "pincel para uñas" en español. El fondo de la imagen revela una variedad de otros productos de belleza, incluyendo esmaltes de uñas en varios colores.</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img13.jpg" alt="Descripción de la foto 12">
+                <figcaption>La imagen muestra una caja de almacenamiento de plástico transparente con compartimentos llenos de decoraciones de arte para uñas en forma de mariposa de varios colores. La caja está etiquetada como "XIAOYA" con un logotipo de "fimxi Nails" y un precio de "$80". El fondo es una superficie blanca peluda, posiblemente una alfombra. La imagen parece ser para la venta de estas decoraciones de arte para uñas.</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img14.jpg" alt="Descripción de la foto 13">
+                <figcaption>Las funcionalidades del dispositivo de spa para pies en la imagen son:
+                    <ul>
+                        <li>Sumergir los pies en agua con función de calentamiento.</li>
+                        <li>Diseño compacto y portátil.</li>
+                        <li>Rodillos de masaje y luces infrarrojas para terapia.</li>
+                    </ul>
+                </figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img16.jpg" alt="Descripción de la foto 14">
+                <figcaption>La imagen muestra un contenedor de plástico transparente con tres compartimentos llenos de ligas para el cabello en colores rosa, blanco, morado y negro. También hay una liga negra colocada encima del contenedor. El fondo es de un material blanco esponjoso. El contenedor está etiquetado con los números "#08L" y "#02L" en un lado, y "#08" en el otro, probablemente relacionados con el producto o la gestión de inventario.</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="img15.jpg" alt="Descripción de la foto 15">
+                <figcaption>Descripción de la foto 15</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto16.jpg" alt="Descripción de la foto 16">
+                <figcaption>Descripción de la foto 16</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto17.jpg" alt="Descripción de la foto 17">
+                <figcaption>Descripción de la foto 17</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto18.jpg" alt="Descripción de la foto 18">
+                <figcaption>Descripción de la foto 18</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto19.jpg" alt="Descripción de la foto 19">
+                <figcaption>Descripción de la foto 19</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto20.jpg" alt="Descripción de la foto 20">
+                <figcaption>Descripción de la foto 20</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto21.jpg" alt="Descripción de la foto 21">
+                <figcaption>Descripción de la foto 21</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto22.jpg" alt="Descripción de la foto 22">
+                <figcaption>Descripción de la foto 22</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto23.jpg" alt="Descripción de la foto 23">
+                <figcaption>Descripción de la foto 23</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto24.jpg" alt="Descripción de la foto 24">
+                <figcaption>Descripción de la foto 24</figcaption>
+            </div>
+            <div class="gallery-item">
+                <img src="foto25.jpg" alt="Descripción de la foto 25">
+                <figcaption>Descripción de la foto 25</figcaption>
+            </div>
