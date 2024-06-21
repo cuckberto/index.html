@@ -1,0 +1,60 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    background-color: #fce4ec;
+    color: #333; /* Color de texto principal */
+    background-image: url('ruta-de-tu-imagen.jpg');
+    background-size: cover; /* Para ajustar la imagen al tamaño del contenedor */
+    background-position: center; /* Para centrar la imagen en el fondo */
+}
+
+header {
+    background-color: #ffccbc;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none; /* Quita las viñetas de la lista */
+    padding: 0;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+    color: #333; /* Color del texto de los enlaces */
+    padding: 10px;
+}
+
+nav a:hover {
+    color: #ffccbc; /* Cambia el color al pasar el cursor por encima */
+}
+
+.main-content img {
+    max-width: 100%; /* Ajusta las imágenes al ancho del contenedor */
+    display: block;
+    margin: 0 auto; /* Centra las imágenes */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Agrega una sombra a las imágenes */
+}
+
+.gallery-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.gallery-item img {
+    max-width: 20%; /* Ancho máximo del 20% para hacer las imágenes más pequeñas */
+    height: auto;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-item figcaption {
+    font-style: italic; /* Estilo de letra en cursiva para la descripción */
+}
+
+footer {
+    background-color: #f48fb1;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
